@@ -1,0 +1,6 @@
+.img-fluid, .img-thumbnail {
+  max-width: 80%;
+  height: auto;
+  border-radius: 1rem!important;
+}
+

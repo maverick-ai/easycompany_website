@@ -1,0 +1,54 @@
+.navbar-custom .navbar-brand {
+  text-transform: lowercase;
+  font-size: 1.3rem;
+  letter-spacing: .1rem;
+  font-weight: 700;
+}
+
+.navbar-custom .navbar-nav .nav-item .nav-link {
+  text-transform: lowercase;
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: .1rem;
+}
+
+#download {
+  padding: 100px 0;
+  position: relative;
+  border-radius: 2rem;
+  margin: 2rem;
+}
+
+.bg-primary {
+  background-color: #3998d4!important;
+}
+
+header.masthead .masthead-content .masthead-heading {
+  font-size: 3.3rem;
+}
+
+header.masthead .masthead-content .masthead-subheading {
+  font-size: 1.8rem;
+}
+
+@media (min-width:992px) {
+  header.masthead .masthead-content .masthead-heading {
+    font-size: 8rem;
+  }
+}
+
+.card {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fe6659;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: 2rem;
+  margin: 2rem;
+}
+
